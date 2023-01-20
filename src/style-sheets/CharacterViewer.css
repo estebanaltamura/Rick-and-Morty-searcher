@@ -1,0 +1,29 @@
+.characterViewerContainer{
+    display: grid;
+    margin: 82px auto 0 auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 300px 75px 75px 75px 75px;
+    width: 302px;
+    height: 602px;
+    border: 1px solid #919191;
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px 0px #4c4c4c;
+    align-items:flex-end;
+}
+
+.imagen{
+    border-radius: 9px;
+}
+
+.tituloCaracter{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.value{
+    margin: auto;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

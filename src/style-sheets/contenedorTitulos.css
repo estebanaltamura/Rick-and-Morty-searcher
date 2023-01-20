@@ -1,0 +1,15 @@
+.contenedorTitulos{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-rows: 60px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 1px solid #919191;
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px 0px #4c4c4c;
+    cursor:pointer;
+    user-select: none;
+    align-items: center;
+}

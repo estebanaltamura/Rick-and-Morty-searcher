@@ -1,0 +1,19 @@
+.table{
+    margin: 0 auto;
+    display: grid;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid #919191;
+    border-radius: 9px;
+    box-shadow: 4px 4px 4px 0px #4c4c4c;
+    cursor:pointer;
+    user-select: none;
+    grid-template-columns: 800px;
+    grid-template-rows: 60px;
+}
+
+.tableElementsContainer{
+    width: fit-content;
+    height: fit-content;
+}
