@@ -12,7 +12,7 @@
 }
 
 .imagen{
-    border-radius: 9px;
+    border-radius: 9px 9px 0px 0px;
 }
 
 .tituloCaracter{
